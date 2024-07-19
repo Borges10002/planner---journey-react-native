@@ -1,0 +1,9 @@
+vscode
+Tailwind CSS IntelliSense
+
+Tailwind 
+https://www.nativewind.dev/v4/getting-started/expo-router
+npx expo install nativewind@^4.0.1 react-native-reanimated tailwindcss
+
+FONTS
+npx expo install expo-font @expo-google-fonts/inter
