@@ -1,3 +1,4 @@
+import { Input } from "@/components/input";
 import { View, Text, Image } from "react-native";
 
 export default function Index() {
@@ -11,6 +12,12 @@ export default function Index() {
       <Text className="text-zinc-400 font-regular text-center text-lg mt-3">
         Convide seus amigos e planeje sua {"\n"} próxima viagem
       </Text>
+
+      <View>
+        <Input>
+          <Input.Field />
+        </Input>
+      </View>
     </View>
   );
 }

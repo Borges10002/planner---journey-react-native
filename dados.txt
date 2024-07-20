@@ -7,3 +7,6 @@ npx expo install nativewind@^4.0.1 react-native-reanimated tailwindcss
 
 FONTS
 npx expo install expo-font @expo-google-fonts/inter
+
+clsx
+npm install clsx
