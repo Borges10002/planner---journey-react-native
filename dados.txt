@@ -10,3 +10,6 @@ npx expo install expo-font @expo-google-fonts/inter
 
 clsx
 npm install clsx
+
+libriry of icon for react native 
+npx expo install react-native-svg lucide-react-native
